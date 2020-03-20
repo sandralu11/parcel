@@ -1,0 +1,1 @@
+{"version":3,"sources":["base.scss"],"names":[],"mappings":"AAAA,AACI,IADA,CACA,EAAE,CAAA;EACE,gBAAgB,EAAC,IAAI;EACrB,KAAK,EAAC,IAAI,GACb","file":"parcel.e31bb0bc.css","sourceRoot":"..","sourcesContent":["body {\r\n    h1{\r\n        background-color:#fc0;\r\n        color:#fff;\r\n    }\r\n}"]}
